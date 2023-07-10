@@ -29,7 +29,7 @@
 
 ------
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">Github Statistic</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanprojecthub&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="raihanprojecthub" /></p>
 
