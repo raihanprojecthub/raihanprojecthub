@@ -31,8 +31,8 @@
 
 <h3 align="center">Github Stats</h3>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanprojecthub&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="raihanprojecthub" /></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanprojecthub&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="raihanprojecthub" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raihanprojecthub&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="raihanprojecthub" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=raihanprojecthub&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="raihanprojecthub" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanprojecthub&theme=radical&hide_border=false" alt="raihanprojecthub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanprojecthub&theme=radical&hide_border=false" alt="raihanprojecthub" /></p>
