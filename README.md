@@ -1,6 +1,6 @@
 [![MasterHead](https://iili.io/J3ZhBRV.png)](https://raihan-ramadhan.my.id)
 <h1 align="center">Hi 👋, I'm Raihan Ramadhan</h1>
-<h3 align="center">A passionate Web developer & Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate Web developer & UI/UX Designer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raihanprojecthub&label=Profile%20views&color=0e75b6&style=flat" alt="raihanprojecthub" /> </p>
 
